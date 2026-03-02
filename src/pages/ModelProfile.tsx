@@ -947,8 +947,8 @@ const cityModels: Record<string, Record<string, ModelData>> = {
       gallery: [
         'https://pbs.twimg.com/media/HCYQEiFaYAAJ8Up?format=jpg&name=large',
         'https://pbs.twimg.com/media/HCYQEiFbwAE5bYu?format=jpg&name=large',
-        'https://pbs.twimg.com/media/HCK99-baAAEOcgq?format=jpg&name=large',
-        'https://pbs.twimg.com/media/HCK99-baIAE1QW1?format=jpg&name=large'
+        'https://pbs.twimg.com/media/HCYQEiAbwAA-s75?format=jpg&name=large',
+        'https://pbs.twimg.com/media/HCYQEiIaIAA1kDy?format=jpg&name=large'
       ]
     },
     'Bảo Trân': {
