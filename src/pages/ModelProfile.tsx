@@ -924,10 +924,10 @@ const cityModels: Record<string, Record<string, ModelData>> = {
       measurements: '85 – 60 – 88',
       hours: '7PM – 5AM',
       gallery: [
-        'https://pbs.twimg.com/media/HCYOmMYbkAABZzR?format=jpg&name=large',
-        'https://pbs.twimg.com/media/HCK99-YaoAAn-jQ?format=jpg&name=large',
-        'https://pbs.twimg.com/media/HCK99-baAAEOcgq?format=jpg&name=large',
-        'https://pbs.twimg.com/media/HCK99-baIAE1QW1?format=jpg&name=large'
+        'https://pbs.twimg.com/media/HCYP7wNaUAAhmFt?format=jpg&name=4096x4096',
+        'https://pbs.twimg.com/media/HCYP7wXboAAvHp_?format=jpg&name=4096x4096',
+        'https://pbs.twimg.com/media/HCYP7wSb0AAfOWI?format=jpg&name=4096x4096',
+        'https://pbs.twimg.com/media/HCYP7wLaoAETKMJ?format=jpg&name=4096x4096'
       ]
     },
     'Hồng Loan': {
