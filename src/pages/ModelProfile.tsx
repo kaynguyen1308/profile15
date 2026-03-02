@@ -628,10 +628,10 @@ const cityModels: Record<string, Record<string, ModelData>> = {
       measurements: '83 – 58 – 86',
       hours: '7PM – 5AM',
       gallery: [
-        'https://pbs.twimg.com/media/HCYL8goakAEdzSB?format=jpg&name=4096x4096',
-        'https://pbs.twimg.com/media/HCK99-YaoAAn-jQ?format=jpg&name=large',
-        'https://pbs.twimg.com/media/HCK99-baAAEOcgq?format=jpg&name=large',
-        'https://pbs.twimg.com/media/HCK99-baIAE1QW1?format=jpg&name=large'
+        'https://pbs.twimg.com/media/HCYMcR7bcAAL7R3?format=jpg&name=4096x4096',
+        'https://pbs.twimg.com/media/HCYMcR9aoAAzVzf?format=jpg&name=4096x4096',
+        'https://pbs.twimg.com/media/HCYMcR8bwAAmW61?format=jpg&name=4096x4096',
+        'https://pbs.twimg.com/media/HCYMcR7bAAAMZ5P?format=jpg&name=4096x4096'
       ]
     },
     'Khánh Phương': {
