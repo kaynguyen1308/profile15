@@ -354,9 +354,9 @@ const cityModels: Record<string, Record<string, ModelData>> = {
       hours: '7PM – 5AM',
       gallery: [
         'https://pbs.twimg.com/media/HCXQeYlaAAAZlRl?format=jpg&name=large',
-        'https://pbs.twimg.com/media/HCLANcNaAAEeOkJ?format=jpg&name=large',
-        'https://pbs.twimg.com/media/HCLANcPaEAAFUu4?format=jpg&name=large',
-        'https://pbs.twimg.com/media/HCLANcQbMAECt8L?format=jpg&name=medium'
+        'https://pbs.twimg.com/media/HCXREcNaIAARjf0?format=jpg&name=4096x4096',
+        'https://pbs.twimg.com/media/HCXREcebAAA898a?format=jpg&name=4096x4096',
+        'https://pbs.twimg.com/media/HCXREcYbMAAsQLy?format=jpg&name=4096x4096'
       ]
     },
     'Bích Phương': {
