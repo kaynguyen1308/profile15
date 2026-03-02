@@ -291,9 +291,9 @@ const cityModels: Record<string, Record<string, ModelData>> = {
       hours: '7PM – 5AM',
       gallery: [
         'https://pbs.twimg.com/media/HCXQeYlaAAAZlRl?format=jpg&name=large',
-        'https://pbs.twimg.com/media/HCLANcNaAAEeOkJ?format=jpg&name=large',
-        'https://pbs.twimg.com/media/HCLANcPaEAAFUu4?format=jpg&name=large',
-        'https://pbs.twimg.com/media/HCLANcQbMAECt8L?format=jpg&name=medium'
+        'https://pbs.twimg.com/media/HCXQeYlacAARNJM?format=jpg&name=large',
+        'https://pbs.twimg.com/media/HCXQeYqbAAA0Boq?format=jpg&name=large',
+        'https://pbs.twimg.com/media/HCXQeYsboAA6d3m?format=jpg&name=large'
       ]
     },
     'Diệu Nhi': {
