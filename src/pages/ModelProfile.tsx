@@ -479,10 +479,10 @@ const cityModels: Record<string, Record<string, ModelData>> = {
       measurements: '84 – 59 – 87',
       hours: '7PM – 5AM',
       gallery: [
-        'https://pbs.twimg.com/media/HCYKfzqawAEXa3Z?format=jpg&name=4096x4096',
-        'https://pbs.twimg.com/media/HCK99-YaoAAn-jQ?format=jpg&name=large',
-        'https://pbs.twimg.com/media/HCK99-baAAEOcgq?format=jpg&name=large',
-        'https://pbs.twimg.com/media/HCK99-baIAE1QW1?format=jpg&name=large'
+        'https://pbs.twimg.com/media/HCXeuk7awAAGFtJ?format=jpg&name=4096x4096',
+        'https://pbs.twimg.com/media/HCXeuk_bAAAhHcr?format=jpg&name=4096x4096',
+        'https://pbs.twimg.com/media/HCXeulDasAAx_k9?format=jpg&name=4096x4096',
+        'https://pbs.twimg.com/media/HCXeulFbYAAAwVc?format=jpg&name=4096x4096'
       ]
     },
     'Thúy Nga': {
