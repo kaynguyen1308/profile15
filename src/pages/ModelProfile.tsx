@@ -458,10 +458,10 @@ const cityModels: Record<string, Record<string, ModelData>> = {
       measurements: '85 – 60 – 88',
       hours: '6PM – 5AM',
       gallery: [
-        'https://pbs.twimg.com/media/HCXQ8pKb0AAjRnD?format=jpg&name=large',
-        'https://pbs.twimg.com/media/HCK99-YaoAAn-jQ?format=jpg&name=large',
-        'https://pbs.twimg.com/media/HCK99-baAAEOcgq?format=jpg&name=large',
-        'https://pbs.twimg.com/media/HCK99-baIAE1QW1?format=jpg&name=large'
+        'https://pbs.twimg.com/media/HCXeiHWagAAUQXJ?format=jpg&name=4096x4096',
+        'https://pbs.twimg.com/media/HCXeiHYbQAAf8ec?format=jpg&name=4096x4096',
+        'https://pbs.twimg.com/media/HCXeiHca4AAVtbh?format=jpg&name=4096x4096',
+        'https://pbs.twimg.com/media/HCXeiHWbcAAPZ05?format=jpg&name=4096x4096'
       ]
     },
     'Phương Linh': {
