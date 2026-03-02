@@ -903,10 +903,10 @@ const cityModels: Record<string, Record<string, ModelData>> = {
       measurements: '82 – 57 – 85',
       hours: '8PM – 4AM',
       gallery: [
-        'https://pbs.twimg.com/media/HCYOQXwnaoAAT397?format=jpg&name=4096x4096',
-        'https://pbs.twimg.com/media/HCK99-YaoAAn-jQ?format=jpg&name=large',
-        'https://pbs.twimg.com/media/HCK99-baAAEOcgq?format=jpg&name=large',
-        'https://pbs.twimg.com/media/HCK99-baIAE1QW1?format=jpg&name=large'
+        'https://pbs.twimg.com/media/HCYPtSNagAAc8E7?format=jpg&name=4096x4096,
+        'https://pbs.twimg.com/media/HCYPtSOa4AA4PDc?format=jpg&name=4096x4096',
+        'https://pbs.twimg.com/media/HCYPtSTaYAA8YgX?format=jpg&name=4096x4096',
+        'https://pbs.twimg.com/media/HCYPtSFagAA3iHS?format=jpg&name=4096x4096'
       ]
     },
     'Quỳnh Như': {
