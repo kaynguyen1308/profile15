@@ -521,10 +521,10 @@ const cityModels: Record<string, Record<string, ModelData>> = {
       measurements: '82 – 57 – 85',
       hours: '8PM – 4AM',
       gallery: [
-        'https://pbs.twimg.com/media/HCXQ8pKb0AAjRnD?format=jpg&name=large',
-        'https://pbs.twimg.com/media/HCK99-YaoAAn-jQ?format=jpg&name=large',
-        'https://pbs.twimg.com/media/HCK99-baAAEOcgq?format=jpg&name=large',
-        'https://pbs.twimg.com/media/HCK99-baIAE1QW1?format=jpg&name=large'
+        'https://pbs.twimg.com/media/HCYU9Qia4AE7t3r?format=jpg&name=4096x4096',
+        'https://pbs.twimg.com/media/HCYU9RkawAAJ1Oa?format=jpg&name=4096x4096',
+        'https://pbs.twimg.com/media/HCYU9QuacAALG3K?format=jpg&name=4096x4096',
+        'https://pbs.twimg.com/media/HCYU9QoawAAQbCt?format=jpg&name=4096x4096'
       ]
     }
   },
