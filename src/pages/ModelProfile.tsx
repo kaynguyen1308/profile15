@@ -754,10 +754,10 @@ const cityModels: Record<string, Record<string, ModelData>> = {
       measurements: '84 – 59 – 87',
       hours: '7PM – 5AM',
       gallery: [
-        'https://pbs.twimg.com/media/HCYL8goakAEdzSB?format=jpg&name=4096x4096',
-        'https://pbs.twimg.com/media/HCK99-YaoAAn-jQ?format=jpg&name=large',
-        'https://pbs.twimg.com/media/HCK99-baAAEOcgq?format=jpg&name=large',
-        'https://pbs.twimg.com/media/HCK99-baIAE1QW1?format=jpg&name=large'
+        'https://pbs.twimg.com/media/HCYN3hebwAAUIbo?format=jpg&name=4096x4096',
+        'https://pbs.twimg.com/media/HCYN3hbaoAEFYhN?format=jpg&name=4096x4096',
+        'https://pbs.twimg.com/media/HCYN3hmawAACo58?format=jpg&name=4096x4096',
+        'https://pbs.twimg.com/media/HCYN3hiaoAAblYx?format=jpg&name=4096x4096'
       ]
     },
     'Phúc An': {
