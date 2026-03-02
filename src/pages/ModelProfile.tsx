@@ -670,10 +670,10 @@ const cityModels: Record<string, Record<string, ModelData>> = {
       measurements: '87 – 62 – 90',
       hours: '7PM – 6AM',
       gallery: [
-        'https://pbs.twimg.com/media/HCYLoKGaUAAT6A7?format=jpg&name=large',
-        'https://pbs.twimg.com/media/HCK99-YaoAAn-jQ?format=jpg&name=large',
-        'https://pbs.twimg.com/media/HCK99-baAAEOcgq?format=jpg&name=large',
-        'https://pbs.twimg.com/media/HCK99-baIAE1QW1?format=jpg&name=large'
+        'https://pbs.twimg.com/media/HCYUeTYawAA7GrR?format=jpg&name=4096x4096',
+        'https://pbs.twimg.com/media/HCYUeT3bUAANY6N?format=jpg&name=4096x4096',
+        'https://pbs.twimg.com/media/HCYUeTabEAAiAHN?format=jpg&name=4096x4096',
+        'https://pbs.twimg.com/media/HCYUeTXbQAAviJV?format=jpg&name=4096x4096'
       ]
     },
     'Kim Ngân': {
